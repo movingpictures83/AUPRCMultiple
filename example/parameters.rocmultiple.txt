@@ -1,0 +1,9 @@
+file1	PIsToN_scores.csv
+label1	PIsToN
+file2	data/masif_test/MaSIF-Search_scores.csv
+label2	MaSIF
+file3	data/masif_test/dmasif_out.csv
+label3	dMASIF
+other	data/masif_test/Other_tools_SCORES.csv
+other_labels	other_labels.txt
+pos_label	roc.pos1.txt
