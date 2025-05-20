@@ -63,7 +63,7 @@ class AUPRCMultiplePlugin:
         #reverse_sign = [1,1,0,1,1,1,0]
         #colors_array = ['r', 'c', 'm', 'y', 'black', 'orange', 'tan']
         for i in range(len(other_labels)):
-          plot_AUPRC(scores_other, other_labels[i], 'label', other_labels[i], ax, colors[i+2], reverse_sign=reverse_sign[i])
+          plot_AUPRC(scores_other, other_labels[i], 'Label', other_labels[i], ax, colors[i+2], reverse_sign=reverse_sign[i])
 
 
 

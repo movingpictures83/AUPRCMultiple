@@ -1,0 +1,2 @@
+Prefix plugins/AUPRCMultiple/example/
+Plugin AUPRCMultiple inputfile parameters.txt outputfile AUPRC.png
